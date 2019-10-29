@@ -1,0 +1,8 @@
+MIDlet-1: Tiny3D, Tiny3D.png, Tiny3DMIDlet
+MIDlet-Icon: icon.png
+MIDlet-Info-URL: http://mole.skr.jp/ez/
+MIDlet-Name: くるくる3Dデモ
+MIDlet-Vendor: Molecule Factorial
+MIDlet-Version: 1.0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
