@@ -1,6 +1,9 @@
 # Tiny3D
 Tiny 3D demo for Open Appli Player (au mobile phone)
 
+Open Appli Player has no 3D API, so this app has its own
+3D calculation engine.
+
 Maybe it can run on other MIDP platforms.
 
 ## Operation
